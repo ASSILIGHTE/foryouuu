@@ -116,7 +116,7 @@ export const config = {
     badge: "SATU HARAPAN DI BAWAH SENJA",
     title: "One More Wish",
     subtitle: "Saat senja perlahan meredup dan bintang-bintang mulai menyala...",
-    mainPhoto: "/images/adventure.jpeg",
+    mainPhoto: "/images/5.jpeg",
     mainMessage: `Selamat ulang tahun untuk seseorang yang selalu punya cara membuat hariku terasa lebih hangat.
 Terima kasih sudah hadir dan melengkapi banyak hal sederhana dalam hidupku.
 Semoga di usiamu yang baru ini, kebahagiaan dan hal-hal baik selalu menemukan jalan menuju kamu.`,
