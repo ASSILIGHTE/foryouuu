@@ -96,7 +96,7 @@ export const config = {
         id: 3,
         title: "Petualangan Kita",
         tagline: "Di Bawah Langit Yang Sama",
-        description: "waktu pertama kali keluar di kota kendal berdua. menikmati kota yang indah, hujan yang rintik, dan obrolan panjang tanpa akhir",
+        description: "Waktu pertama kali keluar di Kota Kendal berdua. menikmati kota yang indah, hujan yang rintik, dan obrolan panjang tanpa akhir",
         image: "/images/adventure.jpeg",
         icon: "🌃"
       },
